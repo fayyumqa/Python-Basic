@@ -12,3 +12,4 @@ male=False
 print(type(male))
 name=input("enter your name")
 print("welcome to the class",name)
+#new changes
